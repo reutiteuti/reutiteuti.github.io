@@ -20,7 +20,7 @@ a {
 	color: #9999;
 }
 
-a: hover {
+a:hover {
 	text-decoration: underline;
 }
 
